@@ -1,0 +1,47 @@
+img.cat_1,
+.cat_3 {
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding: 50px;
+}
+
+
+div.one {
+    padding: 20px;
+    background-color: rgb(221, 243, 186);
+    border: 20px solid;
+    text-align: right;
+}
+
+div.two {
+    padding: 20px;
+    background-color: rgb(189, 240, 253);
+    border: 20px solid;
+    text-align: left;
+}
+
+div.three {
+    padding: 20px;
+    background-color: rgb(227, 177, 236);
+    border: 20px solid;
+    text-align: right;
+}
+
+div.four {
+    padding: 20px;
+    background-color: rgb(247, 202, 202);
+    border: 20px solid;
+    text-align: left;
+}
+
+img.cat_2,
+.cat_4 {
+    width: 350px;
+    height: 250px;
+    float: left;
+    padding: 50px;
+}
+
+git add .cat_3
+git commit a first commit
